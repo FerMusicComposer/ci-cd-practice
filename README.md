@@ -1,4 +1,4 @@
-![Tests Status] (https://github.com/FerMusicComposer/ci-cd-practice/actions/workflows/ci.yml/badge.svg)
+![Tests Status](https://github.com/FerMusicComposer/ci-cd-practice/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
